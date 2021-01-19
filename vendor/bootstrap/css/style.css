@@ -1,0 +1,211 @@
+/*
+----------------------------------------------------------------------------
+                        contact info....
+NAME:MD ABADEUL ISLAM MUNNAF
+EMAIL:mdabadeul@gmail.com
+PHONE:01722137451
+ADDRESS:pakisha saterdeghi union pakisha singra natore bangladesh*/
+
+
+/*
+      stcture of linkup file
+      ------------------------
+1.requred meta tag
+2.bootstarp css linkup
+3.global css linkup
+4.started body
+5.down of body link jquary cdn link
+6.next linkup bootstrap js linkup
+*/
+
+.logo {
+    margin-left: 80px;
+    padding-top: 15px;
+}
+.castom-nav {
+    margin-right: 100px;
+    padding: 10px;
+}
+.castom-nav li:hover {
+    background: #dd4b2b;
+    border-radius: 50px;
+    transition: 1s ease;
+}
+
+/*nav section end*/
+
+
+/*banner section start*/
+
+.banner-section {
+    background: url(../../../images/hompage.jpg)no-repeat;
+    background-size: cover;
+    margin-top: -70px;
+}
+.banner-content1 {
+    color: white;
+    padding-top: 200px;
+}
+.change-color {
+    color: white;
+}
+.last-banner {
+    margin-top: 70px;
+}
+.button {
+    color: #b83636;
+    border-radius: 50px;
+    padding: 5px 20px;
+    border-color: white;
+    margin-top: 60px;
+}
+
+/*banner section end*/
+
+.our-news {
+    font-weight: bold;
+    padding-top: -50px;
+    margin-top: -100px;
+}
+.powerful-main-our-news {
+    margin-top: px;
+    padding-left: 0;
+}
+.our-news-button {
+    background: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border-color: white;
+}
+.our-news-button:hover {
+    background: #b83636;
+    transition: 1s ease;
+    color: white;
+}
+
+/*our news section end*/
+
+//*news letter section start*/
+.news-letter {
+    background-size: cover;
+    margin-top: -50px;
+}
+.news-letter-content {
+    color: white;
+}
+.news-letter-content1 {
+    color: white;
+    font-size: 20px;
+}
+.input-groupe {
+    margin-top: 40px;
+    margin-bottom: 80px
+}
+.input-controle {
+    border-radius: 50px;
+    padding: 8px 35px;
+    background: transparent;
+    color: gray;
+    font-size: 14px;
+}
+.button-controle {
+    border-radius: 50px;
+    width: 110px;
+    padding: 8px;
+}
+.input-controle:hover {
+    background: : #b8363;
+    transition: 2s ease;
+}
+.position-set {
+    margin-top: -80px;
+}
+
+/*news letter sectiom end*/
+
+
+/*blog section start*/
+
+.title {
+    font-weight: bold;
+}
+.paragraph2 {
+    padding-top: 10px;
+}
+.blog-content {
+    margin-top: -45px;
+}
+.blog-content1 {
+    margin-top: -100px;
+}
+.margin-resize {
+    margin-top: -110px;
+}
+.blog-button {
+    margin-top: 30px;
+    margin-right: 260px;
+    padding: 10px 40px;
+    border-radius: 50px;
+}
+.blog-image {
+    margin-top: 70px;
+    height: 280px;
+}
+.blog-image2 {
+    margin-top: 100px;
+}
+
+}
+.blog-image2 {
+    height: 300px
+}
+.blog-button1 {
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: white;
+    background: #4b4e73;
+    border-color: white;
+}
+.blog-button1:hover {
+    background: #c9302c;
+    transition: 0.50s ease;
+}
+.all-content-menage {
+    margin-top: -200px;
+}
+
+/*blog section end*/
+
+/*footer section start*/
+.footer {
+    background: #d75d0e;
+    padding: 20px;
+}
+.footer ul {
+    padding: 20px;
+}
+.footer ul li {
+    list-style-type: none;
+}
+.footer ul li a {
+    text-decoration: none;
+    color: white;
+}
+.last-footer {
+    background: url(../../images/mainbanner.jpg)no-repeat;
+    background-size: cover;
+}
+.last-footer-finish {
+    padding-top: 50px;
+    color: white;
+}
+.last-footer-finish1 {
+    color: white;
+    padding-bottom: 100px;
+    padding-top: 30px;
+}
+.width-set {
+    height: 70%;
+}
+
+/*footer section end*/
